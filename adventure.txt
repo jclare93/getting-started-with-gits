@@ -2,3 +2,4 @@ Donald Duck
 Van Gogh
 Kafka
 Plato
+Goofy
